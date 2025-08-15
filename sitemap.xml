@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Minimal sitemap for susannarasmussen.github.io. 
+Add more <url><loc>https://susannarasmussen.github.io/your-page/</loc></url> entries as needed. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://susannarasmussen.github.io/</loc>
+  </url>
+</urlset>
