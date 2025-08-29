@@ -1,0 +1,6 @@
+title: Susanne Rasmussen
+url: https://susanna-rasmussen.com   # 必须是新域
+baseurl: ""                          # 顶级域为空
+plugins:
+  - jekyll-sitemap
+  # 可选：- jekyll-seo-tag
